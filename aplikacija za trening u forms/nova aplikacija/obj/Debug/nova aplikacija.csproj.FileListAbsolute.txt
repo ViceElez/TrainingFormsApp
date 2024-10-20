@@ -1,0 +1,29 @@
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\bin\Debug\nova aplikacija.exe.config
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\bin\Debug\nova aplikacija.exe
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\bin\Debug\nova aplikacija.pdb
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.AssemblyReference.cache
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form1.resources
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Properties.Resources.resources
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.GenerateResource.cache
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.CoreCompileInputs.cache
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.exe
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.pdb
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form2.resources
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form3.resources
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form4.resources
+E:\Vice\Programiranje\C#\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form5.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\bin\Debug\nova aplikacija.exe.config
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\bin\Debug\nova aplikacija.exe
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\bin\Debug\nova aplikacija.pdb
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.AssemblyReference.cache
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.SuggestedBindingRedirects.cache
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form1.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form2.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form3.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form4.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Form5.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova_aplikacija.Properties.Resources.resources
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.GenerateResource.cache
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.csproj.CoreCompileInputs.cache
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.exe
+E:\Users\TEMP\Desktop\nova aplikacija\nova aplikacija\obj\Debug\nova aplikacija.pdb

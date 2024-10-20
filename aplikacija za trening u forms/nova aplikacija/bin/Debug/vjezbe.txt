@@ -1,0 +1,5 @@
+Bench Press
+Overhead Press
+Squat
+Deadlift
+Leg Extension
